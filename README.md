@@ -13,9 +13,9 @@
       </ul>
     <h3>Technology Stack :-</h3>
       <ul>
-        <li>Front-end : Tailwind CSS, Next.js</li>
-        <li>Back-end : Node.js,Express.js</li>
-        <li>Database : PostgreSql</li>
+        <li>📱 Front-end : Tailwind CSS, Next.js</li>
+        <li>⚙️ Back-end : Node.js,Express.js</li>
+        <li>🗂️ Database : PostgreSql</li>
       </ul>
      <h3>Benefits :-</h3>
       <ul>
@@ -25,5 +25,6 @@
         <li>📊 Transparency </li>
         <li>♻️ Sustainability</li>
       </ul>
+    <h2 align="center">“ A clean nation is a strong nation ”</h2>
   </body>
 </html>
