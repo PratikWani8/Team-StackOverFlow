@@ -4,6 +4,7 @@
     <h1 align="center">WasteWise</h1>
     <h3 align="center">India's Best Smart Waste Management App</h3>
     <img src="ww1.jpg" height="500" width="1000" align="center" alt="photo">
+    <img src="ww2.jpg" height="500" width="1000" align="center" alt="photo">
     <h3>Features :-</h3>
       <ul>
         <li>Traning</li>
